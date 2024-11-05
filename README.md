@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gowthamk19 Information Technology.
-- 👀 I’m interested in AI & Web development.
-- 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on AI/ML 
-- 📫 How to reach me "On Instagram - @g0wthxm.19 ","LInkedIn - www.linkedin.com/in/gowthamk19003 "
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning PowerBI.
+- 💞️ I’m looking to collaborate on Datas and ML
+- 📫 How to reach me "On Instagram - @g0wthxm.19 ","LInkedIn - www.linkedin.com/in/gowthamk19003"
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: Judging not by Appearance . 
+- ⚡ Fun fact: Judging not by Appearance.
